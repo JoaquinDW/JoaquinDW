@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋, Soy Balthasar</h1>
+<h1 align="center">Hola! 👋, Soy Joaquin</h1>
 <h3 align="center">FullStack Developer de Corrientes, Argentina. Con muchas ganas de expandirme a todo el 🌎.</h3>
 
 - 🌱 Actualmente profundizando en **TypeScript**
