@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Developer de Corrientes, Argentina. Con muchas ganas de expandirme a todo el 🌎.</h3>
 
 # 💫 About Me:
-🌱 Actualmente profundizando en TypeScript<br><br>💬 Preguntame sobre React, Javascript y NodeJs<br><br>📫 Contactame en balthasardeweert@gmail.com
+🌱 Actualmente profundizando en Clean Code, Astro<br><br>💬 Preguntame sobre React, Javascript y NodeJs<br><br>📫 Contactame en balthasardeweert@gmail.com
 
 
 ## 🌐 Socials:
