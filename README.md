@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Developer de Corrientes, Argentina. Con muchas ganas de expandirme a todo el 🌎.</h3>
 
 # 💫 About Me:
-🌱 Actualmente profundizando en Docker y Nest.js<br><br>💬 Preguntame sobre React, Typescript, Next.js, Node.js<br><br>📫 Contactame en balthasardeweert@gmail.com
+🌱 Actualmente profundizando en Docker y Nest.js<br><br>💬 Preguntame sobre React, Typescript, Next.js, Node.js<br><br>📫 Contactame en balthasardeweert@gmail.com<br><br>🗣️ Tengo nivel B2 - Upper intermediate en ingles
 
 
 ## 🌐 Socials:
